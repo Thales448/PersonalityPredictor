@@ -1,0 +1,72 @@
+{
+    "characters": [
+        {
+            "name": "Scheherazade",
+            "description": "A masterful storyteller whose empathy and intelligence turn peril into power; her strength lies in wit and grace under pressure, though she depends on narrative charm to survive."
+        },
+        {
+            "name": "Shahryar",
+            "description": "A wounded king consumed by distrust and fear, whose strength is in commanding authority, but whose weakness is emotional trauma that blinds him to love and mercy."
+        },
+        {
+            "name": "Aladdin",
+            "description": "A clever dreamer driven by charm and audacity, whose street smarts bring him success but whose impulsiveness and desire for wealth test his integrity."
+        },
+        {
+            "name": "Dinarzade",
+            "description": "Gentle and loyal, Dinarzade supports from the shadows with faith and subtle influence; her strength is devotion, but her passivity limits her power."
+        },
+        {
+            "name": "Niccolò Machiavelli",
+            "description": "A brilliant realist who understands power as performance, excelling in strategy and manipulation; his strength is ruthless clarity, his weakness a disregard for moral sentiment."
+        },
+        {
+            "name": "Richard II",
+            "description": "A poetic and introspective king who rules with ceremony rather than strength; his sensitivity and idealism are noble but leave him vulnerable to betrayal and political reality."
+        },
+        {
+            "name": "Henry IV (Bolingbroke)",
+            "description": "A pragmatic and disciplined ruler who rises through calculated ambition; his strength is political competence, but his guilt and paranoia sap his peace and trust."
+        },
+        {
+            "name": "Gilgamesh",
+            "description": "A once-arrogant king who matures through grief and hardship, Gilgamesh is a demigod whose strength and bravery are matched only by his fear of death and eventual longing for wisdom and immortality."
+        },
+        {
+            "name": "Enkidu",
+            "description": "A wild man transformed by companionship and civilization, Enkidu represents raw strength and instinct, but his loyalty and compassion become his greatest virtues—and his tragic vulnerability."
+        },
+        {
+            "name": "Daphne",
+            "description": "A fiercely independent nymph who values freedom above all else, Daphne’s strength lies in her unwavering autonomy, but her inability to trust or open herself to love becomes her undoing."
+        },
+        {
+            "name": "Lesbia",
+            "description": "Passionate, witty, and elusive, Lesbia (Clodia) captivates with her charm and intellect, yet her manipulative nature and emotional volatility often turn love into destruction."
+        },
+        {
+            "name": "Apollo",
+            "description": "The god of reason, music, and prophecy, Apollo’s brilliance lies in his rationality and artistry, though his pride and obsession with control often blind him to the chaos of emotion and fate."
+        },
+        {
+            "name": "Aegeus",
+            "description": "A well-meaning but indecisive king, Aegeus is defined by his paternal concern and vulnerability, making him empathetic but also tragically prone to misjudgment and despair."
+        },
+        {
+            "name": "Dante Alighieri",
+            "description": "A poet driven by moral clarity and spiritual purpose, Dante journeys through Hell, Purgatory, and Paradise to confront his flaws and seek truth, though his righteousness can verge on self-righteousness."
+        },
+        {
+            "name": "Gallis",
+            "description": "A frenzied follower of the goddess Cybele, Gallis is consumed by divine madness and ecstatic devotion, embodying spiritual intensity but also self-destructive zeal and loss of identity."
+        },
+        {
+            "name": "Jason",
+            "description": "Charismatic and cunning, Jason is a leader driven by ambition and diplomacy, but his betrayal of Medea reveals his opportunism and emotional detachment, ultimately leading to his downfall."
+        },
+        {
+            "name": "Medea",
+            "description": "A powerful sorceress torn between love and vengeance, Medea's strength lies in her intellect and resolve, but her deep wounds and pride drive her to terrifying extremes when betrayed."
+        }
+    ]
+}

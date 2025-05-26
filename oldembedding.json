@@ -1,0 +1,198 @@
+{
+  "Gilgamesh": {
+    "Extroversion": 0.40079885721206665,
+    "Neuroticism": 0.5256016254425049,
+    "Agreeableness": 0.5954908728599548,
+    "Conscientiousness": 0.6596130728721619,
+    "Openness": 0.6036911606788635
+  },
+  "Enkidu": {
+    "Extroversion": 0.5183703303337097,
+    "Neuroticism": 0.5276669859886169,
+    "Agreeableness": 0.5674262046813965,
+    "Conscientiousness": 0.498882532119751,
+    "Openness": 0.596892774105072
+  },
+  "Ishtar": {
+    "Extroversion": 0.45995572209358215,
+    "Neuroticism": 0.5476069450378418,
+    "Agreeableness": 0.5673096179962158,
+    "Conscientiousness": 0.5198484063148499,
+    "Openness": 0.5798831582069397
+  },
+  "Ea (god)": {
+    "Extroversion": 0.5183703303337097,
+    "Neuroticism": 0.5276669859886169,
+    "Agreeableness": 0.5674262046813965,
+    "Conscientiousness": 0.498882532119751,
+    "Openness": 0.596892774105072
+  },
+  "Utnapishtim": {
+    "Extroversion": 0.5471393465995789,
+    "Neuroticism": 0.5187203884124756,
+    "Agreeableness": 0.5399020910263062,
+    "Conscientiousness": 0.4788474142551422,
+    "Openness": 0.6392390131950378
+  },
+  "Glaucon (brother of Plato)": {
+    "Extroversion": 0.5694822669029236,
+    "Neuroticism": 0.5471011400222778,
+    "Agreeableness": 0.5033268332481384,
+    "Conscientiousness": 0.390011727809906,
+    "Openness": 0.6174296140670776
+  },
+  "Adeimantus of Collytus": {
+    "Extroversion": 0.41288644075393677,
+    "Neuroticism": 0.5521305203437805,
+    "Agreeableness": 0.5651946663856506,
+    "Conscientiousness": 0.5575628876686096,
+    "Openness": 0.5310069918632507
+  },
+  "Medea (mythology)": {
+    "Extroversion": 0.4896821081638336,
+    "Neuroticism": 0.5739449858665466,
+    "Agreeableness": 0.5525090098381042,
+    "Conscientiousness": 0.5070470571517944,
+    "Openness": 0.5654149651527405
+  },
+  "Jason (mythology)": {
+    "Extroversion": 0.43272528052330017,
+    "Neuroticism": 0.5094937086105347,
+    "Agreeableness": 0.6171373724937439,
+    "Conscientiousness": 0.6966642737388611,
+    "Openness": 0.5839564800262451
+  },
+  "Aegeus": {
+    "Extroversion": 0.576837956905365,
+    "Neuroticism": 0.5434496402740479,
+    "Agreeableness": 0.4910082519054413,
+    "Conscientiousness": 0.38474389910697937,
+    "Openness": 0.6386955380439758
+  },
+  "Apollo": {
+    "Extroversion": 0.47781699895858765,
+    "Neuroticism": 0.5694190263748169,
+    "Agreeableness": 0.5657490491867065,
+    "Conscientiousness": 0.5026228427886963,
+    "Openness": 0.55851149559021
+  },
+  "Daphne (mythology)": {
+    "Extroversion": 0.49970942735671997,
+    "Neuroticism": 0.5547254085540771,
+    "Agreeableness": 0.537222146987915,
+    "Conscientiousness": 0.4329981505870819,
+    "Openness": 0.6105772852897644
+  },
+  "Lesbia (real name Clodia, Lover of Catullus)": {
+    "Extroversion": 0.5072428584098816,
+    "Neuroticism": 0.5637717843055725,
+    "Agreeableness": 0.52360999584198,
+    "Conscientiousness": 0.4181297719478607,
+    "Openness": 0.605988085269928
+  },
+  "Gallis (mythology)": {
+    "Extroversion": 0.5232505798339844,
+    "Neuroticism": 0.5236784219741821,
+    "Agreeableness": 0.5537596940994263,
+    "Conscientiousness": 0.4873129427433014,
+    "Openness": 0.6261798739433289
+  },
+  "Dante Alighieri": {
+    "Extroversion": 0.3571753203868866,
+    "Neuroticism": 0.5702162981033325,
+    "Agreeableness": 0.5766254663467407,
+    "Conscientiousness": 0.6212138533592224,
+    "Openness": 0.566770613193512
+  },
+  "Virgil": {
+    "Extroversion": 0.4514470100402832,
+    "Neuroticism": 0.5511041879653931,
+    "Agreeableness": 0.5381360054016113,
+    "Conscientiousness": 0.4748423099517822,
+    "Openness": 0.551988422870636
+  },
+  "Beatrice Portinari (Dantes Muse)": {
+    "Extroversion": 0.48721665143966675,
+    "Neuroticism": 0.553056538105011,
+    "Agreeableness": 0.5700560212135315,
+    "Conscientiousness": 0.521608829498291,
+    "Openness": 0.5758481621742249
+  },
+  "Homer": {
+    "Extroversion": 0.45944544672966003,
+    "Neuroticism": 0.5706490278244019,
+    "Agreeableness": 0.5498666763305664,
+    "Conscientiousness": 0.45905351638793945,
+    "Openness": 0.5720469951629639
+  },
+  "Horace": {
+    "Extroversion": 0.4202163815498352,
+    "Neuroticism": 0.5708993077278137,
+    "Agreeableness": 0.5680285096168518,
+    "Conscientiousness": 0.5260213613510132,
+    "Openness": 0.5260034799575806
+  },
+  "Sugawara no Michizane": {
+    "Extroversion": 0.3783506751060486,
+    "Neuroticism": 0.5370776057243347,
+    "Agreeableness": 0.6206843256950378,
+    "Conscientiousness": 0.7069267630577087,
+    "Openness": 0.5231503844261169
+  },
+  "Scheherazade": {
+    "Extroversion": 0.5546059012413025,
+    "Neuroticism": 0.5535300970077515,
+    "Agreeableness": 0.5123887062072754,
+    "Conscientiousness": 0.3902761936187744,
+    "Openness": 0.6230785250663757
+  },
+  "Shahryar (a character in One Thousand and One Nights)": {
+    "Extroversion": 0.46879103779792786,
+    "Neuroticism": 0.5470788478851318,
+    "Agreeableness": 0.5674448609352112,
+    "Conscientiousness": 0.49857214093208313,
+    "Openness": 0.5635021924972534
+  },
+  "Aladdin": {
+    "Extroversion": 0.3815135955810547,
+    "Neuroticism": 0.5325385928153992,
+    "Agreeableness": 0.574720025062561,
+    "Conscientiousness": 0.6491122841835022,
+    "Openness": 0.576781153678894
+  },
+  "Dinarzade": {
+    "Extroversion": 0.46879103779792786,
+    "Neuroticism": 0.5470788478851318,
+    "Agreeableness": 0.5674448609352112,
+    "Conscientiousness": 0.49857214093208313,
+    "Openness": 0.5635021924972534
+  },
+  "Michel de Montaigne": {
+    "Extroversion": 0.36631232500076294,
+    "Neuroticism": 0.5501864552497864,
+    "Agreeableness": 0.6477924585342407,
+    "Conscientiousness": 0.7307214736938477,
+    "Openness": 0.48435208201408386
+  },
+  "Niccolo Machiavelli": {
+    "Extroversion": 0.3847643733024597,
+    "Neuroticism": 0.5698097944259644,
+    "Agreeableness": 0.5454025864601135,
+    "Conscientiousness": 0.602556586265564,
+    "Openness": 0.5627005696296692
+  },
+  "Richard II (Shakespeare play)": {
+    "Extroversion": 0.41077089309692383,
+    "Neuroticism": 0.49688810110092163,
+    "Agreeableness": 0.6342201828956604,
+    "Conscientiousness": 0.6775368452072144,
+    "Openness": 0.5905503034591675
+  },
+  "King Henry IV (Shakespeare play)": {
+    "Extroversion": 0.3769097626209259,
+    "Neuroticism": 0.5359998941421509,
+    "Agreeableness": 0.6305779814720154,
+    "Conscientiousness": 0.6261992454528809,
+    "Openness": 0.5963175892829895
+  }
+}

@@ -1,0 +1,34 @@
+# Node modules should not be copied in - let Docker rebuild from package.json
+node_modules
+npm-debug.log
+yarn-error.log
+app.py
+character_embeddings_bigfive.json
+character_wikis.txt
+personality.py
+scraper.py
+
+# Git and config
+.git
+.gitignore
+.env
+.env.*  # in case you use dotenv files
+
+# Editor files
+.vscode
+.idea
+*.swp
+*.swo
+
+# Test files and coverage
+__tests__/
+coverage/
+*.test.js
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts (if you're copying compiled code separately)
+dist/
+build/
